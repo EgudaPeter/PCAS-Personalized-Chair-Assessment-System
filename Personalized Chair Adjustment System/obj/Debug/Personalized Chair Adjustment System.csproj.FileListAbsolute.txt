@@ -1,0 +1,20 @@
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\bin\Debug\Personalized Chair Adjustment System.exe.config
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\bin\Debug\Personalized Chair Adjustment System.exe
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\bin\Debug\Personalized Chair Adjustment System.pdb
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized Chair Adjustment System.csprojResolveAssemblyReference.cache
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.loginForm.resources
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Properties.Resources.resources
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.SignUpWindow.resources
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized Chair Adjustment System.csproj.GenerateResource.Cache
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized Chair Adjustment System.exe
+c:\users\peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized Chair Adjustment System.pdb
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.WelcomeWindowcs.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Home.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Step1.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Step2A.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Step2B.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Step2C.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.Step3.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.supervisorHome.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.PickDate.resources
+C:\Users\Peter\documents\visual studio 2013\Projects\Personalized Chair Adjustment System\Personalized Chair Adjustment System\obj\Debug\Personalized_Chair_Adjustment_System.GoodBye.resources

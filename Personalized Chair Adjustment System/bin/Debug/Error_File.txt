@@ -1,0 +1,162 @@
+
+ 
+Error Details for database function 'Get name of User': 
+Prepared statement '(@username nvarchar(4000),@id decimal(1,0))select Name from Staf' expects parameter @username, which was not supplied.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get chair type': 
+There is no row at position 0.
+System.Data
+
+ 
+Error Details for database function 'Insert into Audit Table': 
+Error converting data type nvarchar to numeric.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Insert into Audit Table': 
+Must declare the variable '@stat_type'.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get all records': 
+Cross-thread operation not valid: Control 'dgvAllRecords' accessed from a thread other than the thread it was created on.
+System.Windows.Forms
+
+ 
+Error Details for database function 'Get active records': 
+Cross-thread operation not valid: Control 'lbActive' accessed from a thread other than the thread it was created on.
+System.Windows.Forms
+
+ 
+Error Details for database function 'Get disabled records': 
+Cross-thread operation not valid: Control 'lbDisabled' accessed from a thread other than the thread it was created on.
+System.Windows.Forms
+
+ 
+Error Details for database function 'Get name of Supervisor': 
+Invalid column name 'Name'.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Insert Into Staff Table': 
+Arithmetic overflow error converting nvarchar to data type numeric.
+The statement has been terminated.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get name of User': 
+Arithmetic overflow error converting varchar to data type numeric.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Authenticate ID': 
+Invalid column name 'superviosrID_Number'.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Insert Into Supervisor Table': 
+String or binary data would be truncated.
+The statement has been terminated.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get all records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get active records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get disabled records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get Query records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get Complied records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get slow records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get all records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get active records': 
+Invalid column name 'ExpectedDuration'.
+Invalid column name 'ActualDuration'.
+Could not use view or function 'Audit_View' because of binding errors.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get all records': 
+Incorrect syntax near the keyword 'from'.
+.Net SqlClient Data Provider
+Occured at 
+Time: 09:56:04:AM
+Date: 04/28/2017
+
+ 
+Error Details for database function 'Insert into Audit Table': 
+Line 1: Incorrect syntax near '('.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get all records': 
+Prepared statement '(@fDate nvarchar(4000),@eDate nvarchar(4000))select * from Audit' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider
+Occured at Time: 12:25:30:PM Date: 04/28/2017
+
+ 
+Error Details for database function 'Get active records': 
+Prepared statement '(@condition nvarchar(1),@fDate nvarchar(4000),@eDate nvarchar(40' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get disabled records': 
+Prepared statement '(@condition nvarchar(1),@fDate nvarchar(4000),@eDate nvarchar(40' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get Query records': 
+Prepared statement '(@status nvarchar(5),@fDate nvarchar(4000),@eDate nvarchar(4000)' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get Complied records': 
+Prepared statement '(@condition nvarchar(8),@fDate nvarchar(4000),@eDate nvarchar(40' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider
+
+ 
+Error Details for database function 'Get slow records': 
+Prepared statement '(@condition nvarchar(4),@fDate nvarchar(4000),@eDate nvarchar(40' expects parameter @fDate, which was not supplied.
+.Net SqlClient Data Provider

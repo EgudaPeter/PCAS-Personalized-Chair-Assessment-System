@@ -1,0 +1,1 @@
+﻿server = .; database = PCAS; uid = pcas; pwd = pcas;
